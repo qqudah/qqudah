@@ -5,9 +5,9 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qqudah" alt="qqudah" /></a> </p>
-
+<p align="center">
 - 🌱 I’m currently learning **Spring-boot , aws cloud**
-
+</p>
 <p align="center">
 </p>
 
