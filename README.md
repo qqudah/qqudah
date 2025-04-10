@@ -1,10 +1,10 @@
 <h1 align="center"> I'm Mohannad Al-Qudah</h1>
 <h3 align="center">A senior software engineering student and a back-end devloper</h3>
 
- <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/18718154694703786/">
+ 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qqudah" alt="qqudah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qqudah" alt="qqudah" /></a> </p>
 
 - 🌱 I’m currently learning **Spring-boot , aws cloud**
 
