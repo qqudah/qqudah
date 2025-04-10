@@ -9,9 +9,9 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,csharp,html,css,postgresql,mysql,aws,postman" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,html,css,postgresql,mysql,aws,postman" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qqudah&show_icons=true&locale=en&layout=compact" alt="qqudah" /></p>
