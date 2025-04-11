@@ -2,6 +2,7 @@
 <h3 align="center">A senior software engineering student and a back-end devloper</h3>
 
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qqudah" alt="qqudah" /></a> </p>
