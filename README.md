@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Mohannad Al-Qudah</h1>
-<h3 align="center">A senior software engineering student and a back-end devloper</h3>
+<h3 align="center">A software engineer  and a back-end devloper</h3>
 
  
 
